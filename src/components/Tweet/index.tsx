@@ -22,7 +22,7 @@ const Tweet: React.FC = () => {
   return (
     <Container>
       <Retweeted>
-        <RocketseatIcon />
+      
         Você retweetou
       </Retweeted>
 
@@ -31,14 +31,14 @@ const Tweet: React.FC = () => {
 
         <Content>
           <Header>
-            <strong>Rocketseat</strong>
-            <span>@rocketseat</span>
+            <strong>Google</strong>
+            <span>@google</span>
             <Dot />
             <time>27 de jun</time>
           </Header>
 
           {/* eslint-disable-next-line jsx-a11y/accessible-emoji */}
-          <Description>Foguete não tem ré 🚀</Description>
+          <Description>Prédio da Google</Description>
 
           <ImageContent />
 

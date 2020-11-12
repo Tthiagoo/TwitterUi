@@ -32,8 +32,9 @@ export const Avatar = styled.div`
   height: max(45px, min(135px, 22vw));
 
   border: 3.75px solid var(--primary);
-  background: var(--gray);
+  background: url('https://avatars1.githubusercontent.com/u/51219408?s=460&u=f10fcb3577198bff3012f153c6fb53e043cfdcb9&v=4');
   border-radius: 50%;
+  background-size:cover;
 
   position: absolute;
   bottom: max(-60px, -10vw);

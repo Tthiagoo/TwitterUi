@@ -23,12 +23,10 @@ const ProfilePage: React.FC = () => {
       <ProfileData>
         <EditButton outlined>Editar perfil</EditButton>
 
-        <h1>Guilherme Rodz</h1>
-        <h2>@guilherme_rodz</h2>
+        <h1>Thiago Pereira</h1>
+        <h2>@thiago_pereira</h2>
 
-        <p>
-          Developer at <a href="https://rocketseat.com.br">@Rocketseat</a>
-        </p>
+        
 
         <ul>
           <li>
@@ -37,7 +35,7 @@ const ProfilePage: React.FC = () => {
           </li>
           <li>
             <CakeIcon />
-            Nascido(a) em 21 de junho de 2001
+            Nascido(a) em 04 de julho 1997
           </li>
         </ul>
 

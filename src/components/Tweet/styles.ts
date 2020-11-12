@@ -44,7 +44,8 @@ export const Avatar = styled.div`
   height: 49px;
   border-radius: 50%;
   flex-shrink: 0;
-  background: var(--gray);
+  background: url('https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1004px-Google_%22G%22_Logo.svg.png');
+  
 
   position: absolute;
   top: 0;
@@ -95,11 +96,12 @@ export const Description = styled.p`
 `;
 
 export const ImageContent = styled.div`
-  margin-top: 12px;
+  margin-top: 12px; 
   width: 100%;
   height: min(285px, max(175px, 41vw));
 
-  background: var(--outline);
+  background: url('https://i.pinimg.com/originals/d2/5c/d6/d25cd61e551555b36047107510fc73b5.jpg');
+    background-size: cover;
   border-radius: 14px;
 
   cursor: pointer;
