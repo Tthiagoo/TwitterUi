@@ -10,3 +10,7 @@
  - React 
  - StyledComponents
  - TypeScript
+ 
+ ### Deploy 
+ Veja [aqui](https://clonetwiter.netlify.app/) uma visualização deste projeto 
+ 
